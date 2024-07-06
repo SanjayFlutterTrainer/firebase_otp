@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51751474800",
+    "project_id": "imageupload-f0791",
+    "storage_bucket": "imageupload-f0791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51751474800:android:e99a6e8d9e0b79933d06b5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCrJPX-gAOPJh3uieBHkfqHWsSBZaX_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51751474800:android:25995389e1ed3b923d06b5",
+        "android_client_info": {
+          "package_name": "com.example.image_picker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCrJPX-gAOPJh3uieBHkfqHWsSBZaX_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
